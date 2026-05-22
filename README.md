@@ -6,3 +6,4 @@
 
 # 遵循ScrapSPY/废了SPY/古代国安部内部法律
 
+https://github.com/PXT4NV/ScrapSPY_6
